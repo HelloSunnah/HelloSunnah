@@ -78,12 +78,16 @@
 
 <br/>  
 ## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sunnah&hide_border=true&layout=compact" align="left" style="width: 100%" />  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sunnah&hide_border=true&layout=compact" align="left" style="width: 50%" />  
 
 <br/>  
 <br/>  
 <br/>  
 <br/>  
+
+
+
+
 
 <div align="center">
             <a href="https://www.buymeacoffee.com/imshahria" target="_blank" style="display: inline-block;">
@@ -95,4 +99,3 @@
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
