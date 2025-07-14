@@ -1,50 +1,48 @@
-<div align="center">
-    <img src="https://rishavanand.github.io/static/images/greetings.gif" style="width: 100%" />
-</div>
+# My Portfolio
 
-### <div align="center">Hi, I'm Sunnah 👨‍💻 a passionate Laravel developer since 2022 🚀</div>
+Welcome to my GitHub profile! I'm a passionate web developer specializing in both frontend and backend technologies. Below you'll find an overview of my skills, ongoing projects, and how you can connect with me.
 
-- 🔭 I’m currently building a [Loan Management System](https://loan.codecell.com.bd/).
-- 👯 I’m looking to collaborate on a [School Management System](https://shikkha.one).
-- 🤝 I’m seeking help with a [POS](https://partnerdistributions.com/admin/login).
-- 🌱 I'm learning Vue.js and React to expand my skills.
-- ❓ Ask me anything about PHP or backend development!
+## 🚀 Skills & Technologies
 
-<br/>
+### Frontend:
+- **HTML5** – Semantic and accessible markup.
+- **CSS3** – Responsive design, Flexbox, Grid, and animations.
+- **JavaScript (JS)** – Vanilla JavaScript, ES6+ features, and DOM manipulation.
+- **Vue.js** – Building interactive UIs with Vue.js (Vue 2 & 3).
 
-## My Skills
+### Backend:
+- **PHP** – Object-oriented PHP, and experience with various PHP frameworks.
+- **Laravel** – Building modern and scalable applications with Laravel.
+- **MySQL** – Designing and querying relational databases.
+- **PostgreSQL** – Advanced SQL queries, data modeling, and optimization.
 
-<div style="max-width: 1200px; width: 100%; margin: 0 auto; display: flex; flex-wrap: wrap; justify-content: center; gap: 30px;">
+## 🔭 Current Work
+I'm currently building a **Loan Management System**. It's an exciting project that involves both frontend and backend development to manage loan processes effectively.
 
-    <!-- Frontend Card -->
-    <div style="background: #f8f9fa; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); width: 280px; padding: 20px; text-align: center; transition: transform 0.3s;">
-        <h3 style="font-size: 20px; color: #333;">Frontend</h3>
-        <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; padding-top: 10px;">
-            <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" style="margin: 5px" /></a>
-            <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" style="margin: 5px" /></a>
-            <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" style="margin: 5px" /></a>
-            <a href="https://www.electronjs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="50" style="margin: 5px" /></a>
-            <a href="https://www.javascript.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" style="margin: 5px" /></a>
-        </div>
-    </div>
+## 👯 Looking to Collaborate On
+I'm looking to collaborate on building a **School Management System**. If you have experience or interest in this area, feel free to reach out!
 
-    <!-- Backend Card -->
-    <div style="background: #f8f9fa; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); width: 280px; padding: 20px; text-align: center; transition: transform 0.3s;">
-        <h3 style="font-size: 20px; color: #333;">Backend</h3>
-        <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; padding-top: 10px;">
-            <a href="https://www.php.net/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" style="margin: 5px" /></a>
-            <a href="https://www.mysql.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" style="margin: 5px" /></a>
-            <a href="https://laravel.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" style="margin: 5px" /></a>
-            <a href="https://jquery.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" style="margin: 5px" /></a>
-            <a href="https://www.linux.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" style="margin: 5px" /></a>
-        </div>
-    </div>
+## 🤝 Seeking Help With
+I’m seeking help with developing a **Point of Sale (POS)** system. If you have expertise in POS systems, I’d appreciate your input!
 
-</div>
+## 🌱 Learning & Growth
+I’m currently expanding my skill set by learning **Vue.js** and **React**. These frameworks will help me build more dynamic and interactive web applications.
 
-<br/>
+## ❓ Ask Me Anything
+Feel free to ask me anything about **PHP** or **backend development**! I'm always happy to share my knowledge and learn from others.
 
-## Connect with me
+## 💼 Projects
+
+Here are a few of the projects I've worked on:
+
+- [Project 1: **Your Project Name**](Link to your project)
+- [Project 2: **Your Project Name**](Link to your project)
+- [Project 3: **Your Project Name**](Link to your project)
+
+## 📞 Get in Touch
+
+Feel free to reach out to me through any of these platforms:
+
 <div align="center">
     <a href="https://github.com/HelloSunnah" target="_blank">
         <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" />
@@ -60,20 +58,4 @@
     </a>
 </div>
 
-<br/>
-
-## Language Proficiency
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sunnah&hide_border=true&layout=compact" />
-</div>
-
-<br/>
-
-## Support Me
-<div align="center">
-    <a href="https://www.buymeacoffee.com/imshahria" target="_blank">
-        <img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" alt="Buy Me a Coffee" />
-    </a>
-</div>
-
-<br/>
+Thanks for visiting my GitHub profile. Looking forward to connecting!
