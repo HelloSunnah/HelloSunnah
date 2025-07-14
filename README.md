@@ -62,7 +62,7 @@
 
 ### 📫 Let's Connect
 
-- 📧 Email: `shahriasunnah@gmail.com`
+- 📧 Email: `imshahriasunnah@gmail.com`
 - 🌐 Portfolio: *Coming Soon!*
 
 ---
