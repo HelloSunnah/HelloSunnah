@@ -14,7 +14,7 @@
 
 ## My Skills
 
-<table>
+<table width="100%">
     <tr>
         <td valign="top" width="50%">
             <h3 align="center">Frontend</h3>
