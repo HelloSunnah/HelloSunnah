@@ -26,7 +26,7 @@
 - 🔭 I’m currently working on a **Loan Management System**
 - 👯 I’m looking to collaborate on a **School Management System**
 - 🤝 I’m seeking help with developing a **POS System**
-- 🌱 I’m expanding my skills with **Vue.js** and **React**
+- 🌱 I’m expanding my skills with **Vue.js**
 - ❓ Ask me anything about **PHP**, **Backend Development**, or **Laravel**
 - ⚡ Fun Fact: I can debug a PHP error faster than I find my keys 🔑
 
