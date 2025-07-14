@@ -1,61 +1,83 @@
-# My Portfolio
-
-Welcome to my GitHub profile! I'm a passionate web developer specializing in both frontend and backend technologies. Below you'll find an overview of my skills, ongoing projects, and how you can connect with me.
-
-## 🚀 Skills & Technologies
-
-### Frontend:
-- **HTML5** – Semantic and accessible markup.
-- **CSS3** – Responsive design, Flexbox, Grid, and animations.
-- **JavaScript (JS)** – Vanilla JavaScript, ES6+ features, and DOM manipulation.
-- **Vue.js** – Building interactive UIs with Vue.js (Vue 2 & 3).
-
-### Backend:
-- **PHP** – Object-oriented PHP, and experience with various PHP frameworks.
-- **Laravel** – Building modern and scalable applications with Laravel.
-- **MySQL** – Designing and querying relational databases.
-- **PostgreSQL** – Advanced SQL queries, data modeling, and optimization.
-
-## 🔭 Current Work
-I'm currently building a **Loan Management System**. It's an exciting project that involves both frontend and backend development to manage loan processes effectively.
-
-## 👯 Looking to Collaborate On
-I'm looking to collaborate on building a **School Management System**. If you have experience or interest in this area, feel free to reach out!
-
-## 🤝 Seeking Help With
-I’m seeking help with developing a **Point of Sale (POS)** system. If you have expertise in POS systems, I’d appreciate your input!
-
-## 🌱 Learning & Growth
-I’m currently expanding my skill set by learning **Vue.js** and **React**. These frameworks will help me build more dynamic and interactive web applications.
-
-## ❓ Ask Me Anything
-Feel free to ask me anything about **PHP** or **backend development**! I'm always happy to share my knowledge and learn from others.
-
-## 💼 Projects
-
-Here are a few of the projects I've worked on:
-
-- [Project 1: **Your Project Name**](Link to your project)
-- [Project 2: **Your Project Name**](Link to your project)
-- [Project 3: **Your Project Name**](Link to your project)
-
-## 📞 Get in Touch
-
-Feel free to reach out to me through any of these platforms:
-
 <div align="center">
+  <h1>Hi there, I'm <span style="color:#38bdf8;">Shahria Sunnah</span> 👋</h1>
+  <h3>💻 Full Stack Web Developer | Laravel | Vue.js | WordPress | PostgreSQL</h3>
+  
+  <p>
     <a href="https://github.com/HelloSunnah" target="_blank">
-        <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" />
+        <img src="https://img.shields.io/badge/GitHub-%2324292e.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
-    <a href="https://linkedin.com/in/www.linkedin.com/in/shahriasunnah" target="_blank">
-        <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+    <a href="https://linkedin.com/in/shahriasunnah" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="https://www.facebook.com/https://www.facebook.com/itssunnahhhhhhhhhhhhhhhhh/" target="_blank">
-        <img src="https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" />
+    <a href="https://www.facebook.com/itssunnahhhhhhhhhhhhhhhhh" target="_blank">
+        <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
     </a>
-    <a href="https://instagram.com/https://www.instagram.com/shahria_sunnah/" target="_blank">
-        <img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
+    <a href="https://www.instagram.com/shahria_sunnah/" target="_blank">
+        <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
+  </p>
+
 </div>
 
-Thanks for visiting my GitHub profile. Looking forward to connecting!
+---
+
+### 🚀 About Me
+
+- 🔭 I’m currently working on a **Loan Management System**
+- 👯 I’m looking to collaborate on a **School Management System**
+- 🤝 I’m seeking help with developing a **POS System**
+- 🌱 I’m expanding my skills with **Vue.js** and **React**
+- ❓ Ask me anything about **PHP**, **Backend Development**, or **Laravel**
+- ⚡ Fun Fact: I can debug a PHP error faster than I find my keys 🔑
+
+---
+
+### 🛠️ My Tech Stack
+
+#### 🧠 **Languages**
+![HTML](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+#### 🧰 **Frameworks & Libraries**
+![Laravel](https://img.shields.io/badge/Laravel-F55247?style=for-the-badge&logo=laravel&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vuejs-42B883?style=for-the-badge&logo=vue.js&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+
+#### 🗄️ **Database**
+![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HelloSunnah&show_icons=true&theme=tokyonight" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HelloSunnah&layout=compact&theme=tokyonight" height="180" />
+</p>
+
+---
+
+### 📫 Let's Connect
+
+- 📧 Email: `shahriasunnah@gmail.com`
+- 🌐 Portfolio: *Coming Soon!*
+
+---
+
+### 🧩 Featured Projects
+
+- 💼 **Loan Management System** – Laravel + Vue.js-based full-featured platform  
+- 🏫 **School Management System** – In development, handling students, exams, staff  
+- 🛒 **Point of Sale (POS)** – PHP + MySQL based inventory & billing solution  
+
+> Stay tuned for upcoming releases!
+
+---
+
+<div align="center">
+  <strong>Thanks for stopping by! 🙌</strong><br>
+  <em>Feel free to star ⭐ my repositories and connect with me!</em>
+</div>
